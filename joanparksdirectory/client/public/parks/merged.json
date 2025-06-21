@@ -1,0 +1,41 @@
+[
+  {
+    "OBJECTID": 101,
+    "PARK_NAME": "Arrowhead Provincial Park",
+    "REGION_NAME": "Central",
+    "CLASSIFICATION": "Recreational"
+  },
+  {
+    "OBJECTID": 102,
+    "PARK_NAME": "Bon Echo Provincial Park",
+    "REGION_NAME": "Southeast",
+    "CLASSIFICATION": "Natural Environment"
+  },
+  {
+    "OBJECTID": 103,
+    "PARK_NAME": "Sleeping Giant Provincial Park",
+    "REGION_NAME": "Northwest",
+    "CLASSIFICATION": "Wilderness"
+  },
+  {
+    "OBJECTID": 104,
+    "PARK_NAME": "Lake Superior Provincial Park",
+    "REGION_NAME": "Northeast",
+    "CLASSIFICATION": "Natural Environment"
+  },
+  {
+    "OBJECTID": 105,
+    "PARK_NAME": "Rattlesnake Ridge Provincial Park",
+    "REGION_NAME": "Southwest",
+    "CLASSIFICATION": "Nature Reserve"
+  },
+  {
+    "OBJECTID": 106,
+    "PARK_NAME": "Earl Rowe Provincial Park",
+    "REGION_NAME": "Alliston",
+    "CLASSIFICATION": "Recreational",
+    "latitude": 44.150159,
+    "longitude": -79.898905,
+    "featured": true
+  }
+]
