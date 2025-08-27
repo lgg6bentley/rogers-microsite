@@ -35,8 +35,8 @@ This microsite explores the brand story, design language, and visual identity be
 
 ## 📸 Preview
 
-![rogers microsite preview](https://rogers-microsite.vercel.app/og-image.png)  
-*Explore the rebrand, design language, and brand story.*
+![Rogers Rebrand Microsite Screenshot](preview.png)  
+*Bold, modern, and proudly Canadian—this microsite celebrates Rogers’ $34M rebrand with immersive storytelling and sleek design.*
 
 ---
 
