@@ -129,7 +129,7 @@ export default function HomePage() {
           <div className="text-center">
             <h2 className="text-4xl font-bold text-[#DA291C] mb-4">Iconography</h2>
             <p className="text-lg mb-6">
-              Simple, rounded icons reflect the brand’s human-first approach to technology.
+              Simple, rounded icons reflect the brands human-first approach to technology.
             </p>
             <div className="flex justify-center gap-8 text-[#DA291C] text-4xl">
               <span className="transition-transform hover:scale-110">📶</span>

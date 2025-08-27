@@ -4,7 +4,10 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   experimental: {
-    serverActions: true, // if you're using server actions
+    serverActions: {
+      bodySizeLimit: "1mb", // or leave empty
+      allowedOrigins: ["*"], // or specify domains
+    },
   },
 };
 
