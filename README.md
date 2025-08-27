@@ -15,7 +15,6 @@ This microsite explores the brand story, design language, and visual identity be
 ---
 
 ## 🛠️ Tech Stack
-React Next.js Tailwind CSS Vercel
 
 - [Next.js](https://nextjs.org/) – React framework for production-grade apps  
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling  
