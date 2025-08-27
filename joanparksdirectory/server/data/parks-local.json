@@ -1,0 +1,44 @@
+[
+  {
+    "PARK_NAME": "Algonquin Provincial Park",
+    "REGION_NAME": "Central",
+    "CLASSIFICATION": "Natural Environment",
+    "latitude": 45.8372,
+    "longitude": -78.3796
+  },
+  {
+    "PARK_NAME": "Killarney Provincial Park",
+    "REGION_NAME": "Northeast",
+    "CLASSIFICATION": "Wilderness",
+    "latitude": 46.0058,
+    "longitude": -81.4086
+  },
+  {
+    "PARK_NAME": "Sandbanks Provincial Park",
+    "REGION_NAME": "Southeast",
+    "CLASSIFICATION": "Recreational",
+    "latitude": 43.9266,
+    "longitude": -77.2540
+  },
+  {
+    "PARK_NAME": "Quetico Provincial Park",
+    "REGION_NAME": "Northwest",
+    "CLASSIFICATION": "Wilderness",
+    "latitude": 48.3333,
+    "longitude": -91.2500
+  },
+  {
+    "PARK_NAME": "Pinery Provincial Park",
+    "REGION_NAME": "Southwest",
+    "CLASSIFICATION": "Natural Environment",
+    "latitude": 43.2833,
+    "longitude": -81.8167
+  },
+  {
+    "PARK_NAME": "Earl Rowe Provincial Park",
+    "REGION_NAME": "Alliston",
+    "CLASSIFICATION": "Recreational",
+    "latitude": 44.150159,
+    "longitude": -79.898905
+  }
+]
