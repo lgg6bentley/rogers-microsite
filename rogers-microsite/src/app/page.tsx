@@ -159,7 +159,9 @@ export default function HomePage() {
       href="https://www.linkedin.com/in/bentley-bond-89b39a375/"
       target="_blank"
       rel="noopener noreferrer"
-      className="bg-white text-[#DA291C] px-6 py-3 rounded-full font-semibold border border-[#DA291C] hover:bg-gray-100 transition"
+      className="inline-block bg-white text-[#DA291C] px-6 py-3 rounded-full font-semibold border border-[#DA291C] hover:bg-gray-100 transition"
+
+
     >
       Connect on LinkedIn
     </a>
